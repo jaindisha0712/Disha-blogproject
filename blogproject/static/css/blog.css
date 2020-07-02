@@ -1,0 +1,47 @@
+.content{
+  width:60%;
+  float:left;
+  padding: 0 0 0 30px;
+  background: yellow;
+
+}
+.sidebar{
+  width:40%;
+  float:right;
+  padding: 10px;
+  background:pink;
+  height: 100%;
+}
+
+h1{
+  text-align: center;
+  border-bottom: 1px solid red;
+  padding-bottom: 10px;
+}
+body{
+  background: yellow;
+}
+#date{
+  font-size: 18px;
+  color: red;
+  font-style: italic;
+}
+a{
+  color:green;
+}
+
+#ch{
+  color:green;
+  font-size: 18px;
+  font-style: italic;
+  border-bottom: 2px solid red;
+
+}
+.tagbox{
+  border: 1px solid red;
+}
+#pcount{
+  font-size: 40px;
+  color: green;
+  font-weight: bold;
+}
